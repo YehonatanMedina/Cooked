@@ -1,0 +1,5 @@
+{
+  "name": "Cooked Dashboard",
+  "description": "A minimalistic, humorous university progress tracker that calculates your 'Cooked Level' based on backlog.",
+  "requestFramePermissions": []
+}
